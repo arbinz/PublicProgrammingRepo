@@ -1,37 +1,57 @@
-## Welcome to GitHub Pages
+# Welcome to my Public Repository
 
-You can use the [editor on GitHub](https://github.com/arbinz/PublicProgrammingRepo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Here you can find all of the work I have done, both in Programming classes and my personal projects. Enjoy your visit! If you have questions or comments, you can reach me at [my email](marko.mcdowell@gmail.com).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## My Projects
 
-### Markdown
+### My Primary Data Storage Locations
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Java Projects](https://github.com/arbinz/JavaRepoUpdated)
 
-```markdown
-Syntax highlighted code block
+[C# Projects](https://github.com/arbinz/CSharpRepo)
 
-# Header 1
-## Header 2
-### Header 3
+### [Wrisk](https://github.com/arbinz/JavaRepoUpdated/tree/master/Wrisk)
 
-- Bulleted
-- List
+Wrisk is a group collaboration (incomplete for the time being) with Will Mulcock and Edwin Carcano in an attempt to create a functional computerized version of the classic game Risk, owned by Parker Brothers. Java.
 
-1. Numbered
-2. List
+### [Caesar Cipher](https://github.com/arbinz/JavaRepoUpdated/tree/master/CaesarCipher)
 
-**Bold** and _Italic_ and `Code` text
+This is a functional caesar cipher encryptor. Though I cannot claim ownership for the program itself, i can say that I wrote the text documents and produced the decryption protocol. Java.
 
-[Link](url) and ![Image](src)
-```
+### [Roach Population Calculator](https://github.com/arbinz/JavaRepoUpdated/tree/master/RoachPopulation)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+A simple timer/click response app that calculates the number of roaches over time.
+Written by Marko McDowell, with the assistance of Tanner Jones. Java.
 
-### Jekyll Themes
+### [Collection: Stacks](https://github.com/arbinz/JavaRepoUpdated/tree/master/CollectionStacks)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/arbinz/PublicProgrammingRepo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+This is my first stab at using the Java collections framework, using the Stack storage type. ONLY THE COLLECT.JAVA FILE IS MY CREATTION. CREDIT FOR ALL OTHER FILES IS GIVEN IN THE COMMENT SECTION OF EACH. Java.
 
-### Support or Contact
+### [For-Array](https://github.com/arbinz/JavaRepoUpdated/tree/master/ForArray)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This is a simple application to test the power of a computer by filling a massive array via nesting for loops. Java.
+
+### [Abstraction](https://github.com/arbinz/JavaRepoUpdated/tree/master/Abstraction-2)
+
+This file cache is my early practice with abstract classes and methods. Java.
+
+### [Interface and Implement](https://github.com/arbinz/JavaRepoUpdated/tree/master/InterfaceandImplement)
+
+This is my first attempt to use interfaces. Java.
+
+### [Birthday Graph](https://github.com/arbinz/JavaRepoUpdated/tree/master/BirthdayGraph)
+
+This is a simple GUI app that calculates how many days it will be until the next birthday of each member of my family. Java.
+
+### [Number Reversal and String Swap](https://github.com/arbinz/JavaRepoUpdated/tree/master/NumReverseandStringSwap)
+
+This is a pair of console applications that do exactly what the name implies. Reverse numbers and swap strings. Java.
+
+### [Console Calculator](https://github.com/arbinz/CSharpRepo/tree/master/ConsoleCalculator)
+
+This is a simple four function console calculator. C#.
+
+
+## About the Developer
+
+Marko McDowell is a resident of Millcreek, Utah, and is state certified in Java and C#, and has experience with Processing as well.
