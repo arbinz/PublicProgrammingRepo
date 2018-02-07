@@ -6,7 +6,7 @@ Here you can find all of the work I have done, both in Programming classes and m
 
 ### My Primary Data Storage Locations
 
-[Java Projects](https://github.com/arbinz/JavaRepoUpdated)
+[Java Projects](https://github.com/arbinz/JavaRepo)
 
 [C# Projects](https://github.com/arbinz/CSharpRepo)
 
